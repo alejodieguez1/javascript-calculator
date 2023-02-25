@@ -1,0 +1,14 @@
+{
+  "name": "jscalc",
+  "version": "1.0.0",
+  "description": "Calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "netlify-cli": "^13.0.0"
+  }
+}
